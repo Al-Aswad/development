@@ -1,0 +1,12 @@
+
+
+#Git Commands
+alias ga='git add'
+alias gaa='git add .'
+alias gaaa='git add --all'
+
+#Laravel  Commands
+alias optimize="php artisan config:clear && php artisan cache:clear && php arti>
+alias mfs="php artisan migrate:f seed"
+alias pint="./vendor/bin/pint"
+
